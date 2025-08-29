@@ -141,29 +141,14 @@ A complete MERN stack application for food ordering with cart functionality, bui
 - Edit route files in `server/routes/`
 - Update models in `server/models/`
 
-## 🚀 Deployment
+#Screen Shots
+![WhatsApp Image 2025-08-29 at 18 05 48_481bb85a](https://github.com/user-attachments/assets/20e40c14-bb4d-42b3-a8e2-c20a61044bc5)
+![WhatsApp Image 2025-08-29 at 18 02 56_9a78dfe6](https://github.com/user-attachments/assets/9ff13a62-de48-4611-8694-982a267b6a8d)
+![WhatsApp Image 2025-08-29 at 18 03 21_a2bd1abe](https://github.com/user-attachments/assets/4569539d-157f-4dc1-b990-0fbece4b5eca)
+![WhatsApp Image 2025-08-29 at 18 06 18_75d5c083](https://github.com/user-attachments/assets/13435d33-44c7-48be-9930-024f1524bb9a)
+![WhatsApp Image 2025-08-29 at 18 07 29_e6ab2ff6](https://github.com/user-attachments/assets/55fbbe0f-0195-437c-9eac-41a6a3699df9)
+![WhatsApp Image 2025-08-29 at 18 08 33_ec3a5b0a](https://github.com/user-attachments/assets/10f5b5cb-0bb5-4c46-8433-234f482e000c)
 
-### Backend
-- Deploy to platforms like Heroku, Railway, or DigitalOcean
-- Set environment variables for production
-- Use MongoDB Atlas for cloud database
-
-### Frontend
-- Build the project: `npm run build`
-- Deploy to Vercel, Netlify, or any static hosting service
-- Update API base URL in `client/src/services/api.js`
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🆘 Support
 
@@ -176,3 +161,12 @@ If you encounter any issues:
 ---
 
 **Happy Coding! 🎉**
+
+
+
+
+
+
+
+
+
