@@ -146,6 +146,7 @@ A complete MERN stack application for food ordering with cart functionality, bui
 ![WhatsApp Image 2025-08-29 at 18 02 56_9a78dfe6](https://github.com/user-attachments/assets/9ff13a62-de48-4611-8694-982a267b6a8d)
 ![WhatsApp Image 2025-08-29 at 18 03 21_a2bd1abe](https://github.com/user-attachments/assets/4569539d-157f-4dc1-b990-0fbece4b5eca)
 ![WhatsApp Image 2025-08-29 at 18 06 18_75d5c083](https://github.com/user-attachments/assets/13435d33-44c7-48be-9930-024f1524bb9a)
+<img width="1310" height="618" alt="image" src="https://github.com/user-attachments/assets/b696e460-5a41-4ca7-9de6-058267d31f79" />
 ![WhatsApp Image 2025-08-29 at 18 07 29_e6ab2ff6](https://github.com/user-attachments/assets/55fbbe0f-0195-437c-9eac-41a6a3699df9)
 ![WhatsApp Image 2025-08-29 at 18 08 33_ec3a5b0a](https://github.com/user-attachments/assets/10f5b5cb-0bb5-4c46-8433-234f482e000c)
 
